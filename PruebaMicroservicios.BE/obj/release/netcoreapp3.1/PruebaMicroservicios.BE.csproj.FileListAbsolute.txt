@@ -1,0 +1,13 @@
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\bin\release\netcoreapp3.1\PruebaMicroservicios.BE.deps.json
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\bin\release\netcoreapp3.1\PruebaMicroservicios.BE.runtimeconfig.json
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\bin\release\netcoreapp3.1\PruebaMicroservicios.BE.runtimeconfig.dev.json
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\bin\release\netcoreapp3.1\PruebaMicroservicios.BE.dll
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\bin\release\netcoreapp3.1\PruebaMicroservicios.BE.pdb
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\obj\release\netcoreapp3.1\PruebaMicroservicios.BE.csproj.AssemblyReference.cache
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\obj\release\netcoreapp3.1\PruebaMicroservicios.BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\obj\release\netcoreapp3.1\PruebaMicroservicios.BE.AssemblyInfoInputs.cache
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\obj\release\netcoreapp3.1\PruebaMicroservicios.BE.AssemblyInfo.cs
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\obj\release\netcoreapp3.1\PruebaMicroservicios.BE.csproj.CoreCompileInputs.cache
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\obj\release\netcoreapp3.1\PruebaMicroservicios.BE.dll
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\obj\release\netcoreapp3.1\PruebaMicroservicios.BE.pdb
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.BE\obj\release\netcoreapp3.1\PruebaMicroservicios.BE.genruntimeconfig.cache

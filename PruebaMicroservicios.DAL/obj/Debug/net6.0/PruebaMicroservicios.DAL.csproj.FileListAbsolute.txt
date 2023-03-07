@@ -1,0 +1,17 @@
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\bin\Debug\net6.0\PruebaMicroservicios.DAL.deps.json
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\bin\Debug\net6.0\PruebaMicroservicios.DAL.runtimeconfig.json
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\bin\Debug\net6.0\PruebaMicroservicios.DAL.dll
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\bin\Debug\net6.0\PruebaMicroservicios.DAL.pdb
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\bin\Debug\net6.0\PruebaMicroservicios.BE.dll
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\bin\Debug\net6.0\PruebaMicroservicios.BE.pdb
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\obj\Debug\net6.0\PruebaMicroservicios.DAL.csproj.AssemblyReference.cache
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\obj\Debug\net6.0\PruebaMicroservicios.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\obj\Debug\net6.0\PruebaMicroservicios.DAL.AssemblyInfoInputs.cache
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\obj\Debug\net6.0\PruebaMicroservicios.DAL.AssemblyInfo.cs
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\obj\Debug\net6.0\PruebaMicroservicios.DAL.csproj.CoreCompileInputs.cache
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\obj\Debug\net6.0\PruebaMicroservicios.DAL.csproj.CopyComplete
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\obj\Debug\net6.0\PruebaMicroservicios.DAL.dll
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\obj\Debug\net6.0\refint\PruebaMicroservicios.DAL.dll
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\obj\Debug\net6.0\PruebaMicroservicios.DAL.pdb
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\obj\Debug\net6.0\PruebaMicroservicios.DAL.genruntimeconfig.cache
+C:\Users\daniel.banda\Desktop\PruebaMicroservicios\PruebaMicroservicios.DAL\obj\Debug\net6.0\ref\PruebaMicroservicios.DAL.dll
